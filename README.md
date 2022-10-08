@@ -8,7 +8,7 @@ My name is Manav Sanghvi .I'm currently a third year student studying at Thakur 
 
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=manav0702&theme=dark%show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=manav0702&theme=nightowl%show_icons=true&count_private=true)
 
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=manav0702&layout=compact)
