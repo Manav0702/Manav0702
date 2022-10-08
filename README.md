@@ -6,4 +6,4 @@ My name is Manav Sanghvi .I'm currently a third year student studying at Thakur 
 - 🌱 I’m currently learning flutter
 - 👯 I’m looking to collaborate on App Development or Data Science Projects
 
-https://github-readme-stats.vercel.app/api?Manav0702&theme=highcontrast%showi cons=true&count private=true
+https://github-readme-stats.vercel.app/api?ManavSanghvi&theme=highcontrast%showicons=true&count private=true
